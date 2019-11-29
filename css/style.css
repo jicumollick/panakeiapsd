@@ -1,0 +1,232 @@
+
+/*Author
+
+Name:jiku mollick;
+email: jikumollick82@gmail.com;
+
+*/
+
+/*
+
+======index======
+
+1) Header 
+2) Fusce at
+3) Facilisis
+4) Ante donec
+5) Blandit rhoncus
+6) Placerat
+7) Footer
+
+*/
+
+
+/*Global css*/
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	font-size: 35px;
+	
+
+
+}
+h2{
+	font-size: 27px;
+
+
+}
+h5 {
+	font-size: 20px;
+	 
+
+}
+
+p{
+	font-size: 18px;
+
+}
+
+
+/* Theme CSS */
+
+
+/*header sections start*/
+#mainNav {
+	background-color: #EDEFF1!important;
+	
+
+}
+
+.nav-item {
+
+}
+
+.nav-link{
+	color: black;
+	margin: 22px 20px; 
+
+}
+
+.nav-link.js-scroll-trigger.active {
+
+	background-color: #DD4B2B;
+    padding: 10px 30px;
+    border-radius: 29px;
+    color: #fff;
+}
+
+/*header sections end*/
+
+/*Fusce at section start*/
+	
+#Fusce {
+	background:url("../img/hero.png") no-repeat center top;
+	background-size: cover;
+	color: #fff;
+}
+
+.content1 {
+	margin-top: 16%;
+	margin-bottom: 10%;
+
+}
+
+.items {
+	line-height: 2;
+
+}
+.fimage{
+	    margin-bottom: 4%;
+}
+
+.btn-cstm {
+	width: 180px;
+    height: 50px;
+    background: #fff;
+    border-radius: 31px;
+    color: #612316;
+    border: none;
+
+
+}
+
+
+/*Fusce at section end*/
+ /*Facilisis section start*/
+
+
+ #Facilisis {
+ 	background-color: #EDEFF1;
+
+ }
+
+
+
+ .btn-cstm2 {
+	width: 150px;
+    height: 50px;
+    background: #fff;
+    border-radius: 31px;
+    color: black;
+    border: none;
+
+
+}
+
+
+
+ /*Facilisis section end*/
+
+ /*Ante donec section start */
+
+	#Antedonec {
+		background: url("../img/back2.png") no-repeat top;
+		background-size: cover;
+		color: #fff;
+	}
+
+
+
+	.form-control {
+		border-radius: 26px;
+		padding: 20px;
+		background: transparent;
+		position: relative;
+
+	}
+
+	.btn-cstm3 {
+	width: 180px;
+    height: 44px;
+    background: #fff;
+    border-radius: 31px;
+    color: #612316;
+    border: none;
+    position: absolute;
+    top: 74%;
+    left: 67%;
+	}
+
+input::placeholder {
+	color:#fff!important;
+}
+
+
+ /*Ante donec section end */
+	
+/*Blandit rhoncus section start */
+
+.btn-cstm4 {
+	width: 180px;
+    height: 50px;
+    background: #DD4B2B;
+    border-radius: 31px;
+    color: #fff;
+    border: none;
+
+
+}
+
+.btn-cstm5 {
+	width: 180px;
+    height: 50px;
+    background: #4B4E73;
+    border-radius: 31px;
+    color: #fff;
+    border: none;
+
+
+}
+
+/*Blandit rhoncus section end */
+
+
+ /*Placerat section start*/
+
+ #Placerat {
+ 	background: #DD4B2B;
+ }	
+
+ #Placerat li {
+ 	list-style: none;
+ 	color: #fff;
+ }
+ #Placerat li a {
+ 	text-decoration: none;
+ 	color: #fff;
+ }
+ /*Placerat section end*/
+
+
+/*footer section start*/
+
+footer {
+	background: url("../img/back2.png") no-repeat center top;
+	background-size: cover;
+	color: #fff;
+}
+
+/*footer section end*/
